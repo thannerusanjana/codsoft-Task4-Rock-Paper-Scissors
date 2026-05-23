@@ -18,5 +18,7 @@ This is a fun Python game where the user plays Rock-Paper-Scissors against the c
 2. Run the `rock_paper_scissors.py` file
 3. Enter rock, paper, or scissors to play
 
-## 📷 Output
+##  Output
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/0107835a-1456-4a84-bf75-637db060c86b" />
+
 
